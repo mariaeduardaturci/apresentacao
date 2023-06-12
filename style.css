@@ -4,7 +4,7 @@ h4 {color: darkgreen;}
 h5 {color: blue;}
 h6 {color: brown;}
 h1 {margin-left: 30%;}
-#mario {margin-left: 30%;}
+#mario {margin-left: 20%;}
 h2 {margin-left: 45%;}
 #ml {margin-left: 45%;}
 h3 {margin-left: 50%;}
@@ -16,11 +16,13 @@ h5 {margin-left: 50%;}
 h6 {margin-left:50%;}
 #gorilla {margin-left: 30%;}
 #gorilla {width: 35%;}
-#cog. {width: 25%;}
+#cog. {width: 15%;}
 #pr {width: 25%;}
 #ml {width: 50%;}
-h2 {font-size: 30%;}
-h3 {font-size: 30%;}
-h4 {font-size: 30%;}
-h5 {font-size: 30%;}
-h6 {font-size: 30%;}
+h2 {font-size: 80%;}
+h3 {font-size: 80%;}
+h4 {font-size: 80%;}
+h5 {font-size: 80%;}
+h6 {font-size: 80%;}
+p {font-size: 60%;}
+p {text-align: center;}
