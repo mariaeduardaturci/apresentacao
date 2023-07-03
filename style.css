@@ -1,10 +1,11 @@
+h1{color: gold};
 h2 {color: red;}
 h3 {color: deeppink;}
 h4 {color: darkgreen;}
 h5 {color: blue;}
 h6 {color: brown;}
 h1 {text-align: center;}
-#mario {margin-left: 13%;}
+#mario {margin-left: 14%;}
 h2 {text-align: center;}
 #ml {margin-left: 25%;}
 h3 {text-align: center;}
@@ -27,3 +28,4 @@ h5 {font-size: 200%;}
 h6 {font-size: 200%;}
 p {font-size: 150%;}
 p {text-align: center;}
+#mario {border: solid red;}
