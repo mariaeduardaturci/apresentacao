@@ -1,4 +1,4 @@
-h1{color: gold};
+h1 {color: gold};
 h2 {color: red;}
 h3 {color: deeppink;}
 h4 {color: darkgreen;}
@@ -28,4 +28,4 @@ h5 {font-size: 200%;}
 h6 {font-size: 200%;}
 p {font-size: 150%;}
 p {text-align: center;}
-#mario {border: solid red;}
+h1 {border: solid 3px red;}
